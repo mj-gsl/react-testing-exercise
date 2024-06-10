@@ -170,3 +170,4 @@ npx jest --coverage
 Analysiere den Coverage Report:
 
 Schaue dir den generierten Bericht im coverage-Verzeichnis an und analysiere, welche Teile des Codes nicht abgedeckt sind.
+Trigger CI/CD pipeline
